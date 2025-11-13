@@ -11,4 +11,7 @@ Set up webhook
 
 Admin -> Settings -> Network -> Outbound requests -> Allow requests to the local network from webhooks and integrations
 
+Set up Jenkins
+Jenkins -> 系统管理 -> 全局安全配置 -> 授权策略 -> 安全矩阵 -> 匿名用户 -> 任务build -> 打勾
+
 ---
