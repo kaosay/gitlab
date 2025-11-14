@@ -22,6 +22,7 @@ https://JENKINS_URL/project/PROJECT_NAME
 
 https://plugins.jenkins.io/gitlab-plugin/#plugin-content-disabling-authentication
 
+
 <a href="https://plugins.jenkins.io/gitlab-plugin/#plugin-content-disabling-authentication" target="_blank">gitlab-plugin</a>
 
 
