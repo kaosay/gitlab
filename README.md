@@ -21,6 +21,8 @@ https://JENKINS_URL/project/PROJECT_NAME
 - gitlabUserName
 
 https://plugins.jenkins.io/gitlab-plugin/#plugin-content-disabling-authentication
+<a href="https://plugins.jenkins.io/gitlab-plugin/#plugin-content-disabling-authentication" target="_blank">gitlab-plugin</a>
+
 
 That URL always takes the form https://JENKINS_URL/project/PROJECT_NAME
 You should not be using https://JENKINS_URL/job/PROJECT_NAME/build or https://JENKINS_URL/job/gitlab-plugin/buildWithParameters, as this will bypass the plugin completely.
