@@ -16,3 +16,7 @@ Set up Jenkins
 Jenkins -> 系统管理 -> 全局安全配置 -> 授权策略 -> 安全矩阵 -> 匿名用户 -> 任务build -> 打勾
 
 ---
+-- Transfer project
+Transfer your project into another namespace.
+
+into your porject -> Settings -> General -> Advanced -> Transfer project
