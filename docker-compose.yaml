@@ -1,5 +1,5 @@
 ## First,execute the following command
-## chowner -R mac:1000 /opt/gitlab
+## sudo chown -R mac:1000 /opt/gitlab
 
 # Then change the hostname and external_url
 
