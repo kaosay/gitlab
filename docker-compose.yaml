@@ -1,3 +1,8 @@
+## First,execute the following command
+## chower -R mac:1000 /opt/gitlab
+
+# Then change the hostname and external_url
+
 services:
   gitlab:
     image: gitlab/gitlab-ce:18.3.3-ce.0
